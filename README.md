@@ -85,7 +85,7 @@ Clone project về thư mục `htdocs` của XAMPP (ví dụ ổ C):
 
 ```bash
 cd C:\xampp\htdocs
-https://github.com/DangQuocKhanh1714/BTL_Quan_Ly_Thu_Vien.git
+https://github.com/NguyenVuong21/baitaplon.git
 Truy cập project qua đường dẫn:
 👉 http://localhost/login.php
 ```
@@ -110,7 +110,7 @@ Mở file config.php (hoặc .env) trong project, chỉnh thông tin DB:
         $servername = "localhost";
         $username = "root";
         $password = "";
-        $dbname = "qltvnhom3";
+        $dbname = "qlhs";
         $port = 3306;
 
         // Tạo kết nối
@@ -134,8 +134,5 @@ Truy cập hệ thống:
 👉 http://localhost/index.php
 
 ### 4.6. Đăng nhập lần đầu
-Hệ thống cung cấp tài khoản quản trị viên (Admin) mặc định cho người phụ trách thư viện.
+Hệ thống cung cấp tài khoản quản trị viên (Admin) mặc định cho người phụ trách quản lí sinh viên.
 
-Sau khi đăng nhập, Quản trị viên có thể:
-
-Quản lý Thể loại/Danh mục sách: Tạo, sửa, và xóa các danh mục sách (ví dụ: Khoa học, Văn học, Công nghệ thông tin).
