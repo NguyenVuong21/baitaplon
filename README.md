@@ -58,14 +58,11 @@ Hệ thống Quản lý Thư viện trong trường Đại học được xây d
 ### Trang quản lý sinh viên
 <img width="1917" height="872" alt="Screenshot 2025-11-06 174119" src="https://github.com/user-attachments/assets/c86548de-e0af-402e-b8d4-5c44b16105ec" />
 
-### Trang quản lý sách    
+### Trang quản lý lớp học  
 <img width="1916" height="871" alt="Screenshot 2025-11-06 174141" src="https://github.com/user-attachments/assets/ea4a7039-da25-4536-9806-c6dc74181a59" />
 
 ### Trang quản lý khoa
 <img width="1918" height="872" alt="Screenshot 2025-11-06 174154" src="https://github.com/user-attachments/assets/41468978-ce8b-4aa4-814c-c228b7cbd4bd" />
-
-### Trang quản lý phiếu mượn
-<img width="1900" height="871" alt="Screenshot 2025-11-06 174206" src="https://github.com/user-attachments/assets/b93f98a9-3e8d-44eb-8fb4-14af490f82e9" />
 
 ---
 
