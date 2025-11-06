@@ -53,22 +53,19 @@ Hệ thống Quản lý Thư viện trong trường Đại học được xây d
 <img width="1916" height="873" alt="Screenshot 2025-11-06 173126" src="https://github.com/user-attachments/assets/1374094a-1539-436f-ad12-656e231c9ed5" />
 
 ### Trang chủ admin
-<img width="1900" height="871" alt="Screenshot 2025-11-06 174100" src="https://github.com/user-attachments/assets/59fc9c1c-29ff-41e0-af8c-4e3e2ef32243" />
+<img width="1900" height="871" alt="Screenshot 2025-11-06 174100" src="https://github.com/user-attachments/assets/38b655b7-5e58-4970-b7cb-a004a27a8578" />
 
-### Trang quản lý người dùng
-<img width="1917" height="872" alt="Screenshot 2025-11-06 174119" src="https://github.com/user-attachments/assets/7c37ea59-995a-483d-9774-b6b0f59e9a75" />
+### Trang quản lý sinh viên
+<img width="1917" height="872" alt="Screenshot 2025-11-06 174119" src="https://github.com/user-attachments/assets/c86548de-e0af-402e-b8d4-5c44b16105ec" />
 
 ### Trang quản lý sách    
-<img width="1916" height="871" alt="Screenshot 2025-11-06 174141" src="https://github.com/user-attachments/assets/1d8e2504-cc3b-456e-b395-fb2ffab2b28d" />
+<img width="1916" height="871" alt="Screenshot 2025-11-06 174141" src="https://github.com/user-attachments/assets/ea4a7039-da25-4536-9806-c6dc74181a59" />
 
-### Trang quản lý thể loại
-<img width="1918" height="872" alt="Screenshot 2025-11-06 174154" src="https://github.com/user-attachments/assets/6736af1c-e8dd-468e-b391-cbd70accda17" />
+### Trang quản lý khoa
+<img width="1918" height="872" alt="Screenshot 2025-11-06 174154" src="https://github.com/user-attachments/assets/41468978-ce8b-4aa4-814c-c228b7cbd4bd" />
 
 ### Trang quản lý phiếu mượn
 <img width="1900" height="871" alt="Screenshot 2025-11-06 174206" src="https://github.com/user-attachments/assets/b93f98a9-3e8d-44eb-8fb4-14af490f82e9" />
-
-### Trang nhật kí hệ thống
-<img width="1900" height="871" alt="Screenshot 2025-11-06 174206" src="https://github.com/user-attachments/assets/322de25c-77f0-4289-b24e-58548ca97592" />
 
 ---
 
