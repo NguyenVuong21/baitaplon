@@ -20,7 +20,8 @@
 </div>
  
 ## 📖 1. Giới thiệu
-Hệ thống Quản lý Thư viện trong trường Đại học được xây dựng nhằm hỗ trợ công tác quản lý, theo dõi và đánh giá các nghiệp vụ thư viện như mượn, trả, và kiểm kê tài liệu trong môi trường giáo dục đại học. Thay vì quản lý thủ công bằng giấy tờ hay các tệp Excel rời rạc, hệ thống mang đến một giải pháp tập trung, hiện đại và dễ sử dụng, giúp nâng cao hiệu quả phục vụ bạn đọc và bảo trì kho sách.
+Hệ thống Quản lý Sinh viên trong trường Đại học được xây dựng nhằm hỗ trợ công tác quản lý, theo dõi và đánh giá thông tin sinh viên như hồ sơ cá nhân, lớp học, khoa, kết quả học tập và hoạt động đoàn thể trong môi trường giáo dục đại học.
+Thay vì quản lý thủ công bằng giấy tờ hoặc các tệp Excel rời rạc, hệ thống mang đến một giải pháp tập trung, hiện đại và dễ sử dụng, giúp nâng cao hiệu quả trong việc quản lý sinh viên, giảm thiểu sai sót và tối ưu hóa quy trình làm việc cho nhà trường.
 
 ## 🔧 2. Các công nghệ được sử dụng
 <div align="center">
